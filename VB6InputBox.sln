@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VB6InputBox", "VB6InputBox\VB6InputBox.csproj", "{9DD174F7-8DA3-40AC-99E6-5E2CDB9EA21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VB6 InputBox Test", "VB6 InputBox Test\VB6 InputBox Test.csproj", "{8A7DE6CC-CAA8-432E-8BDB-BD7182CAC498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD174F7-8DA3-40AC-99E6-5E2CDB9EA21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD174F7-8DA3-40AC-99E6-5E2CDB9EA21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD174F7-8DA3-40AC-99E6-5E2CDB9EA21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD174F7-8DA3-40AC-99E6-5E2CDB9EA21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7DE6CC-CAA8-432E-8BDB-BD7182CAC498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7DE6CC-CAA8-432E-8BDB-BD7182CAC498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7DE6CC-CAA8-432E-8BDB-BD7182CAC498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7DE6CC-CAA8-432E-8BDB-BD7182CAC498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7D9BD3-6F11-41AC-A3E7-6584CEE4CC1A}
+	EndGlobalSection
+EndGlobal
