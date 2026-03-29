@@ -16,3 +16,4 @@ private void btnTest_Click(object sender, EventArgs e)
     }
 }
 ```
+![Hit Counter](http://tolsen64.com:8080/hc/index.php?id=GitHub.VB6InputBox)
